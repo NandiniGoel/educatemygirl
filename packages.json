@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.2",
+	"packages": [
+		{
+			"name": "package educatemygirl",
+			"description": "Just a newly made Package",
+			"author": "NandiniGoel",
+			"homepage": "https://github.com/NandiniGoel/educatemygirl.git",
+			"last_modified": "2011-12-12 05:04:31",
+			"platforms": {
+				"osx": [
+					{
+						"version": "1.1.0",
+						"url": "https://nodeload.github.com/NandiniGoel/educatemygirl.git/zip/educate_my_girl"
+					}
+				]
+			}
+		}
+	]
+}
